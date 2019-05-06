@@ -1,0 +1,16 @@
+==============================
+FOOD
+==============================
+MEAT: beef(cow), lamb, mutton(sheep), venison(deer), veal(calf), ham, pork, bacon (pig)
+POULTRY: chicken, duck, turkey
+DAIRY: milk, butter, cheese
+FISH: cod, hake, plaice, mackerel, herring, sardine, trout, salmon, sturgeon, tuna, sea bass
+SEAFOOD: shrimp, prawn, crayfish, lobster, cockles, mussels, oysters, scallops
+VEGETABLES: aubergine, courgette, leek, cauliflower, carrot, onion, beetroot, cucumber, broccoli, spinach, raddish, turnip, gherkin
+SPICES: curry(cumin, cardamon, coriander, paprika, turmeric, ginger), bay leaf, ginger, cinnamon
+HERBS: parsley, fennel/dill, chives, rosemary, tarragon, thyme, oregano, sage, arugula, cilantro
+NUTS: chestnut, walnut, hazelnut, almond, peanut, pistachios
+DISHES: pork knuckle, french fries, pancakes, dumplings, mashed potatoes, cutlet, chop
+CEREALS: buckwheat, oats, beans, peas, lentils
+
+pomegranate fruit
